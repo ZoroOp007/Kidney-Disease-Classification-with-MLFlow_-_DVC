@@ -3,9 +3,9 @@ A full fledge kidney disease classification deep learning project with deploymen
 
 ## Workflows
 
-1.Update config.yaml
-2.Update secrets.yaml [Optional]
-3.Update params.yaml
+1.Update config.yaml \n
+2.Update secrets.yaml [Optional] \n
+3.Update params.yaml \n
 4.Update the entity
 5.Update the configuration manager in src config
 6.Update the components
